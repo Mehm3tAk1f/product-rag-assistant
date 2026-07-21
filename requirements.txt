@@ -1,0 +1,10 @@
+requests>=2.31
+pandas>=2.0
+scikit-learn>=1.3
+nltk>=3.8
+
+# Optional, only needed for --backend embeddings:
+# sentence-transformers>=2.2
+
+# Optional, only needed to run the local mock API in dev/mock_server.py:
+# flask>=3.0
